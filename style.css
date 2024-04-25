@@ -1,0 +1,13 @@
+* {
+    color:orange;
+    background-color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.title {
+    text-align: center;
+}
+
+.recipelinks {
+    text-align: center;
+}
