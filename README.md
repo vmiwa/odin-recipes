@@ -1,0 +1,1 @@
+Simple project of a website to practice basic notions of git,html and css.
